@@ -5,7 +5,7 @@ __This line is bold double underline start and end__
 
 ***All bold and italic i used three star star and end***
 
-This is <sub>tsubscript</sub>
+This is <sub>subscript text</sub>
 
 ~~This line was wrong~~
 
