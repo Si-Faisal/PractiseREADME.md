@@ -40,6 +40,9 @@ This is <sup>subscript text</sup>
 > [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
+> [!WARNING]
+> Crucial information necessary for users to succeed.
+
 
 
 
